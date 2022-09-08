@@ -11,7 +11,7 @@ Today, remote work is very common. The COVID pandemic made companies realize tha
 
 About a month ago from this time of writing, I saw and ad on Facebook from FSW stating that they, in conjunction with Promineo Tech, are offering coding boot camps. I inquired and, with the help of the ARPA Grant, am now enrolled in the Back End Software Developer course. While I enjoy making beautiful websites (I make pretty things), my first love is coding. In my opinion, creating the internal workings of a program is fun. I love the challenge of being given a task and creating the result. Coding to me is one big logic problem and I enjoy logic problems!
 
-Coding has always been my first love :heart:. I typed my first lines of code in BASIC on a Commodore 64 and have been hooked ever since. My mother could never figure out how I could spend hours on end typing code - neither could some of my friends at the time! I am looking forward to this journey to become a Back End Software Developer. This opportunity presenting itself made me realize that it is never too late to chase your dreams!
+Coding has always been my first love :heart:. I typed my first lines of code in BASIC on a Commodore 64 :eyes: and have been hooked ever since. My mother could never figure out how I could spend hours on end typing code - neither could some of my friends at the time! I am looking forward to this journey to become a Back End Software Developer. My son just left for college at UCF (Go Knights! Charge On!) and is currently pursuing his dreams. This opportunity presenting itself made me realize that it is never too late for ME to chase my dreams as well!
 
 <!--
 **CMRapp/CMRapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
