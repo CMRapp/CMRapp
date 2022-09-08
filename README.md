@@ -1,6 +1,18 @@
 # Hello! 👋
 # My name is Christian. Welcome to my GitHub Repository!
 
+I graduated from Florida Southwestern State College in 2010 with an AS Degree in Internet TEchnologies and an AS Degree in Computer Programming and Analysis. Due to life at home at the time, I was never able to relocate to where the programming jobs were most abundant at that time, nor could I continue my education in programming. Due to this, I settled for starting a small website design company. 
+
+Since starting my small business, the web design industry has changed. The advent of the website builders like Wix, has made it difficult for a web design company to get jobs as most people can't justify spending the money when a low cost do-it-yourself option is available.
+
+Larger company websites are very interactive these days, and I have not been able to keep up with the needed skills to be part of a website development firm's team.
+
+Today, remote work is very common. The COVID pandemic made companies realize that their employees can work remotely and still be productive. Even better is the fact that there are tons of jobs available for software developers, many of which are remote. 
+
+About a month ago from this time of writing, I saw and ad on Facebook from FSW stating that they, in conjunction with Promineo Tech, are offering coding boot camps. I inquired and, with the help of the ARPA Grant, am now enrolled in the Back End Software Developer course. While I enjoy making beautiful websites (I make pretty things), my first love is coding. In my opinion, creating the internal workings of a program is fun. I love the challenge of being given a task and creating the result. Coding to me is one big logic problem and I enjoy logic problems!
+
+Coding has always been my first love :heart:. I typed my first lines of code in BASIC on a Commodore 64 and have been hooked ever since. My mother could never figure out how I could spend hours on end typing code - neither could some of my friends at the time! I am looking forward to this journey to become a Back End Software Developer. This opportunity presenting itself made me realize that it is never too late to chase your dreams!
+
 <!--
 **CMRapp/CMRapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
