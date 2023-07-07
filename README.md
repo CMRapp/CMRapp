@@ -29,7 +29,7 @@ For now, this repository will be home to all of my class assignments. Eventually
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="100%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CMRapp&theme=dark&show_icons=true&count_private=true" />
   <br></br>
