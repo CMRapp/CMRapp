@@ -34,6 +34,7 @@ For now, this repository will be home to all of my class assignments. Eventually
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hmackowski&theme=dark&hide_border=false" /> 
 </td>
 <td width="100%" align="center">
+https://github-profile-trophy.vercel.app/?username=CMRapp&theme=onedark
 <!--
 **CMRapp/CMRapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
