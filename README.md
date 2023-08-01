@@ -13,6 +13,8 @@ About a month ago from this time of writing, I saw and ad on Facebook from FSW s
 
 Coding has always been my first love :heart:. I typed my first lines of code in BASIC on a Commodore 64 :eyes: and have been hooked ever since. My mother could never figure out how I could spend hours on end typing code - neither could some of my friends at the time! I am looking forward to this journey to become a FUll Stack Software Developer. My son just left for college at UCF (Go Knights! Charge On!) and is currently pursuing his dreams. This opportunity presenting itself made me realize that it is never too late for ME to chase my dreams as well!
 
+<strong>Update 8/1/23:</strong> I just completed the Front End Software Developer's course and I've found my love!! :heart: Front End development has changed so much since I first learned it. Today's Front End Developers not only get to make attractive UIs (I make pretty things!), but they get to code as well. This is where I want to be.
+
 For now, this repository will be home to all of my class assignments. Eventually, it will be home to ALL of the projects that I am working on to continue to develop my skills.
 
 
