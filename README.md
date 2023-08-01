@@ -23,6 +23,9 @@ For now, this repository will be home to all of my class assignments. Eventually
 <!--Intro end-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=CMRapp&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmrapp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CMRapp&theme=darkhub&column=7)](https://github.com/CMRapp/github-profile-trophy)
 
 ### :computer: Technology Experience :floppy_disk: 
