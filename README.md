@@ -26,7 +26,7 @@ For now, this repository will be home to all of my class assignments. Eventually
 [![trophy](https://github-profile-trophy.vercel.app/?username=CMRapp&theme=darkhub&column=7)](https://github.com/CMRapp/github-profile-trophy)
 
 ### :computer: Technology Experience :floppy_disk: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,npm,vscode,webpack,jquery,react,wordpress,eclipse,spring,java,mysql,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,webpack,jquery,react,wordpress,eclipse,spring,java,mysql,ps)](https://skillicons.dev)
 <!--
 **CMRapp/CMRapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
