@@ -17,23 +17,38 @@ ___
 🎆 <em><strong>Update 8/1/23:</strong> I just completed the Front End Software Developer's course and I've found my new love!! :heart: Front End development has changed so much since I first learned it. Today's Front End Developers not only get to make attractive UIs (I make pretty things!), but they get to code as well. This is where I want to be!</em> 🎆
 ___
 
-For now, this repository will be home to all of my class assignments. Eventually, it will be home to ALL of the projects that I am working on to continue to develop my skills.
+# 💫 About Me:
+- 🌱 I’m currently learning to create full stack applications<br>- ☁️ I've keen interest in Front End Web Development<br>- ☁️ I've keen interest in Web App Development<br>- 📫 Feel free to reach me out **christian@cmrwebstudio.com.com**
 
 
-- 🌱 I’m currently learning to create full stack applications
-- ☁️ I've keen interest in Front End Web Development
-- ☁️ I've keen interest in Web App Development
-- 📫 Feel free to reach me out **christian@cmrwebstudio.com.com**
-<!--Intro end-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=CMRapp&theme=dark)](https://git.io/streak-stats)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/christian.rapp.31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christianmrapp) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CMRapp) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmrapp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CMRapp&theme=darkhub&column=7)](https://github.com/CMRapp/github-profile-trophy)
-
-### :computer: Technology Experience :floppy_disk: 
+# 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,webpack,jquery,react,wordpress,eclipse,spring,java,mysql,ps)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CMRapp&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CMRapp&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CMRapp&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CMRapp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CMRapp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CMRapp&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CMRapp23) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **CMRapp/CMRapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
