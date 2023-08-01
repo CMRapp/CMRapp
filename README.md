@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/CMRapp/CMRapp/assets/106698098/2060c44d-19db-4a73-a2b5-158cea26897c"
-alt="CMR Web Studio Logo" style="display: inline-block; margin:0 auto; float:right;"></p>
+alt="CMR Web Studio Logo"></p>
 
 # My name is Christian. Welcome to my GitHub Repository! 
 
