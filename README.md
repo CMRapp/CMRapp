@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/CMRapp/CMRapp/assets/106698098/2060c44d-19db-4a73-a2b5-158cea26897c"
 alt="CMR Web Studio Logo"></p>
 
-# My name is Christian. Welcome to my GitHub Repository! 
+# <p align="center">My name is Christian. Welcome to my GitHub Repository!</p> 
 
 
 I graduated from Florida Southwestern State College in 2010 with an AS Degree in Internet Technologies and an AS Degree in Computer Programming and Analysis. I learned from one of the best professors in the industry, Mr. Scott Vanselow. Due to life at home at the time, I was never able to relocate to where the programming jobs were most abundant at that time, nor could I continue my education in programming. Due to this, I settled for starting a small website design company. 
