@@ -21,7 +21,7 @@ ___
 ___
 
 # 💫 About Me:
-- 🌱 I’m currently learning to create full stack applications<br>- ☁️ I've keen interest in Front End Web Development<br>- ☁️ I've keen interest in Web App Development<br>- 📫 Feel free to reach me out **christian@cmrwebstudio.com.com**
+- 🌱 I’m currently learning to create full stack applications<br>- ☁️ I've keen interest in Front End Web Development<br>- ☁️ I've keen interest in Web App Development<br>- 📫 Feel free to reach me out **christian@cmrwebstudio.com**
 
 
 ## 🌐 Socials:
