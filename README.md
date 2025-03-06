@@ -12,7 +12,7 @@ Larger company websites are very interactive these days, and I have not been abl
 
 Today, remote work is very common. The COVID pandemic made companies realize that their employees can work remotely and still be productive. Even better is the fact that there are tons of jobs available for software developers, many of which are remote. 
 
-At the time of writing, I was enrolled in a Back End Software Developer course. While I enjoy making beautiful websites (I make pretty things), my first love is coding. In my opinion, creating the internal workings of a program is fun. I love the challenge of being given a task and creating the result. Coding to me is one big logic problem and I enjoy logic problems!
+At the time of this writing, I was enrolled in a Back End Software Developer course. While I enjoy making beautiful websites (I make pretty things), my first love is coding. In my opinion, creating the internal workings of a program is fun. I love the challenge of being given a task and creating the result. Coding to me is one big logic problem and I enjoy logic problems!
 
 Coding has always been my first love :heart:. I typed my first lines of code in BASIC on a Commodore 64 :eyes: and have been hooked ever since. My mother could never figure out how I could spend hours on end typing code - neither could some of my friends at the time! I am looking forward to this journey to become a FUll Stack Software Developer. My son is in his Junior year at UCF (Go Knights! Charge On!) and is currently pursuing his dreams. This opportunity presenting itself made me realize that it is never too late for ME to chase my dreams as well!
 
