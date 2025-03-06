@@ -28,7 +28,7 @@ ___
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/christian.rapp.31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christianmrapp) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CMRapp) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,webpack,jquery,react,nextjs,prisma,tailwind,wordpress,eclipse,spring,java,mysql,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,prisma,tailwind,bootstrap,vscode,vercel,js,html,css,webpack,jquery,wordpress,eclipse,spring,java,mysql,cs,cpp,ps,windows)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CMRapp&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
