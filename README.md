@@ -1,72 +1,54 @@
-<p align="center"><img src="https://github.com/CMRapp/CMRapp/assets/106698098/2060c44d-19db-4a73-a2b5-158cea26897c"
-alt="CMR Web Studio Logo"></p>
+<p align="center">
+  <a href="https://cmrweb.dev"><img src="./assets/cmr-web-dev-logo.png" alt="CMR Web Development" width="380"></a>
+</p>
 
-# <p align="center">My name is Christian. Welcome to my GitHub Repository!</p> 
+# Hi, I'm Christian Rapp
 
+I run **CMR Web Development** in Southwest Florida. I build custom websites and web apps, and when you call, you talk to the person who built yours.
 
-I graduated from Florida Southwestern State College in 2010 with an AS Degree in Internet Technologies and an AS Degree in Computer Programming and Analysis. I learned from one of the best professors in the industry, Mr. Scott Vanselow. Due to life at home at the time, I was never able to relocate to where the programming jobs were most abundant at that time, nor could I continue my education in programming. Due to this, I settled for starting a small website design company. 
+I typed my first code in BASIC on a Commodore 64 and never really stopped. The tools have changed a lot since then, but the fun part hasn't: making things work, and making them look good. I make pretty things.
 
-Since starting my small business, the web design industry has changed. I've been almost exclusively designing and deploying WordPress websites since 2015. The advent of the website builders like Wix, has made it difficult for a small web design company to get jobs as most people can't justify spending the money when a low cost do-it-yourself option is available.
+## What I build
 
-Larger company websites are very interactive these days, and I have not been able to keep up with the needed skills to be part of a website development firm's team.
+- **Custom websites and web apps** built with Next.js, mobile-first and SEO-ready
+- **WordPress to Next.js rebuilds** - faster, more secure, and owned by the client
+- **Admin CMS tools** so clients can update their own content without calling me for every change
+- **Business Insights dashboards** - traffic, leads and Google searches in one place (GA4 + Search Console)
+- **Online stores** - headless Shopify and InkSoft
+- **WordPress** builds and care for sites that stay on WordPress
 
-Today, remote work is very common. The COVID pandemic made companies realize that their employees can work remotely and still be productive. Even better is the fact that there are tons of jobs available for software developers, many of which are remote. 
+## Live work
 
-At the time of this writing, I was enrolled in a Back End Software Developer course. While I enjoy making beautiful websites (I make pretty things), my first love is coding. In my opinion, creating the internal workings of a program is fun. I love the challenge of being given a task and creating the result. Coding to me is one big logic problem and I enjoy logic problems!
+**My own apps**
 
-Coding has always been my first love :heart:. I typed my first lines of code in BASIC on a Commodore 64 :eyes: and have been hooked ever since. My mother could never figure out how I could spend hours on end typing code - neither could some of my friends at the time! I am looking forward to this journey to become a FUll Stack Software Developer. My son is in his Junior year at UCF (Go Knights! Charge On!) and is currently pursuing his dreams. This opportunity presenting itself made me realize that it is never too late for ME to chase my dreams as well!
+- [Card Slinger](https://card-slinger.com) - Free card dealer for game night. Deals one card at a time on the TV, installs free and works offline.
+- [Booster Bingo](https://booster-bingo.com) - Branded bingo cards and call sheets for booster club watch parties.
 
-___
-🎆 <em><strong>Update 8/1/23:</strong> I just completed the Front End Software Developer's course and I've found my new love!! :heart: Front End development has changed so much since I first learned it. Today's Front End Developers not only get to make attractive UIs (I make pretty things!), but they get to code as well. This is where I want to be!</em> 🎆
-___
+**Client work**
 
-___
-🎆 <em><strong>Update 3/6/25:</strong> WOW! How things have changed!! There is so much you can do as a Front End Developer these days.. you can code AND make pretty things! Fornt-End Development is DEFINITELY where I want to be!</em> 🎆
-___
+- [Half Pint Farm TN](https://halfpintfarmtn.com) - Farm website with a headless Shopify store, online bookings and a Business Insights dashboard.
+- [Orange Grove Park](https://orangegrovepark.com) - 55+ community site rebuilt from WordPress, with a custom admin CMS.
+- [PMP Court Reporting](https://pmpcourtreporting.com) - Custom website for a court reporting firm.
+- [Signature Threads SWFL](https://signaturethreadsswfl.com) - Custom apparel store on InkSoft.
+- Sons of The American Legion, Detachment of Florida - member portal and report upload portal for squadrons across the state.
 
-# 💫 About Me:
-- 🌱 I’m continually working on skills development - I let my skills suffer in the past and am not going to let that happen again!<br>- ☁️ I have a great love for Front End Web Development<br>- ☁️ I have a great interest in Web App Development as well.<br>- 📫 Feel free to reach me out **christian@cmrwebstudio.com**
+**My site**
 
+- [cmrweb.dev](https://cmrweb.dev) - Portfolio, case studies and services.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/christian.rapp.31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christianmrapp) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CMRapp) 
+Most of my client and product code lives in private repos, so the activity graph is the best picture of what I'm working on.
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,prisma,tailwind,bootstrap,vscode,vercel,html,css,webpack,jquery,wordpress,eclipse,spring,java,mysql,cs,cpp,ps,windows)](https://skillicons.dev)
+## Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CMRapp&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CMRapp&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CMRapp&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel,postgres,prisma,wordpress)](https://skillicons.dev)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CMRapp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Next.js, React, TypeScript, Tailwind CSS, Vercel, Neon / Postgres, Prisma, and WordPress for legacy work.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Reach me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CMRapp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Email: [christian@cmrweb.dev](mailto:christian@cmrweb.dev)
+- Website: [cmrweb.dev](https://cmrweb.dev)
 
----
-[![](https://visitcount.itsvg.in/api?id=CMRapp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CMRapp23) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**CMRapp/CMRapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianmrapp/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cmrwebdev)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CMRapp)
